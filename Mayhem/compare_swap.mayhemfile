@@ -1,0 +1,5 @@
+project: nebari
+target: compare_swap
+
+cmds:
+  - cmd: /compare_swap
